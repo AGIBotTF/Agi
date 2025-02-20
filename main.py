@@ -4,8 +4,8 @@ import numpy as np
 import time
 import imutils
 
-import traingulation as tri
-import calibration as cal
+import vision.traingulation as tri
+# import vision.calibration as cal
 
 import mediapipe as mp
 
