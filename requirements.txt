@@ -1,0 +1,7 @@
+openai
+gTTS
+pydub
+SpeechRecognition
+PyAudio
+langdetect
+googletrans
